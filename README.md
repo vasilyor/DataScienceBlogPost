@@ -41,5 +41,6 @@ Datasets used:
 <a href="https://www.kaggle.com/airbnb/boston">https://www.kaggle.com/airbnb/boston</a>
 
 **Seattle, WA, USA  Airbnb Open Data** - listing activity of homestays in Seattle, WA. You can find the datasets used from the following link: 
+
 <a href="https://www.kaggle.com/airbnb/seattle/">https://www.kaggle.com/airbnb/seattle</a>
 
